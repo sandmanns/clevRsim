@@ -1,6 +1,7 @@
 <p align="center">
-    <img height="150" src="https://uni-muenster.sciebo.de/s/SFKXeBwmzeD2jZu/download">
+    <img height="150" src="https://uni-muenster.sciebo.de/s/ijaO9VCgu0MYQD7/download">
 </p>
+
 
 # clevRsim: Simulating clonal evolution
 
