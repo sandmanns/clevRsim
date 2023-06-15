@@ -14,3 +14,5 @@ To run clevRsim, you need R (Version 4.1.0 or higher) and shiny.
 ##  Installation
 To install clevRsim, just download and execute the global.R script. All required packages will be installed, all functions loaded automatically.
 
+## Citation
+Sandmann S, Richter S, Jiang X, Varghese J. Reconstructing Clonal Evolution—A Systematic Evaluation of Current Bioinformatics Approaches. International Journal of Environmental Research and Public Health. 2023;20(6):5128. https://doi.org/10.3390/ijerph20065128 
