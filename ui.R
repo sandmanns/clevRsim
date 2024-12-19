@@ -1,8 +1,7 @@
 ui <- fluidPage(
   theme = shinytheme("flatly"),
   titlePanel(div(img(height = 100, width = 100, src = "Logo.png",class="pull-left"),
-                 "clevRsim",
-                 img(height = 64, width = 81, src = "IMI.png",class="pull-right"))
+                 "clevRsim")
              
             # span(div(
             #   column(1, img(src = "Logo.png", width = '80px')),
@@ -404,19 +403,11 @@ ui <- fluidPage(
                             column(3,
                                    h3("Contact"),
                                    br(),
-                                   h5("Institute of Medical Informatics"),
-                                   h5("University of Münster"),
-                                   h5("Albert-Schweitzer-Campus 1, Building A11"),
-                                   h5("48149 Münster, Germany"),
-                                   br(),
-                                   h5("Dr. Sarah Sandmann"),
-                                   #h5("Visualizing tumor evolution with the fishplot package for R. Miller CA, McMichael J, Dang HX, Maher CA, Ding L, Ley TJ, Mardis ER, Wilson RK. BMC Genomics. doi:10.1186/s12864-016-3195-z"),
+                                   h5("PD Dr. Sarah Sandmann"),
                                    h5("sarah.sandmann@uni-muenster.de"),
                                    br(),
-                            ),
-                            column(1,
-                                   br(),br(),br(),br(),
-                                   img(height = 128, width = 162, src = "IMI.png")
+                                   h5("University of Münster"),
+                                   br(),
                             )
                           )
                           )
